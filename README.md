@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio Costa Gouveia</h1>
-<h3 align="center">Sou um aspirante desenvolvedor apaixonado por novas tecnologia e aprendizado contínuo. Gosto de explorar novas linguagens e ferramentas para melhorar minhas habilidades e ajudar para projetos inovadores.</h3>
+<h3 align="center">I am an aspiring developer passionate about new technologies and continuous learning. I enjoy exploring new languages and tools to enhance my skills and contribute to innovative projects.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiocostagou&label=Profile%20views&color=0e75b6&style=flat" alt="caiocostagou" /> </p>
